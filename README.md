@@ -36,7 +36,7 @@ Estou trilhando o caminho para me tornar um Cientista de Dados, aprofundando con
 ## 📂 Projetos em destaque
 
 - 🎮 Jogo de Adivinhação em HTML/CSS/JS  
-- 🧠 App de Detecção de Pose com Teachable Machine  
+- ⛽ Controle de Combustível Uber HTML/CSS/JS - Programa para gerenciar gastos e abastecimentos de veículos para motoristas de aplicativo  
 
 ## 📊 Estatísticas do GitHub
 
