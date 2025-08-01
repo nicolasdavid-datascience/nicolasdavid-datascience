@@ -33,10 +33,10 @@ Estou trilhando o caminho para me tornar um Cientista de Dados, aprofundando con
 >![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 >![Seaborn](https://img.shields.io/badge/Seaborn-2E8BC0?style=for-the-badge)
 
-## 📂 Projetos em destaque
+## 📂 Projetos em destaque  
 
+- ⛽ [Controle de Combustível Uber]([https://seusite.com](https://github.com/nicolasdavid-datascience/gocar)) – Programa para gerenciar gastos e abastecimentos de veículos para motoristas de aplicativo  
 - 🎮 Jogo de Adivinhação em HTML/CSS/JS  
-- ⛽ Controle de Combustível Uber HTML/CSS/JS - Programa para gerenciar gastos e abastecimentos de veículos para motoristas de aplicativo  
 
 ## 📊 Estatísticas do GitHub
 
