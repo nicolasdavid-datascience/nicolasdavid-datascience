@@ -36,7 +36,7 @@ Estou trilhando o caminho para me tornar um Cientista de Dados, aprofundando con
 ## 📂 Projetos em destaque  
 
 - ⛽ [Controle de Combustível Uber](https://github.com/nicolasdavid-datascience/gocar) – Programa para gerenciar gastos e abastecimentos de veículos para motoristas de aplicativo  
-- 🎮 Jogo de Adivinhação em HTML/CSS/JS  
+- 🎮 [Jogo de Adivinhação em HTML/CSS/JS](https://github.com/nicolasdavid-datascience/numero-secreto)
 
 ## 📊 Estatísticas do GitHub
 
