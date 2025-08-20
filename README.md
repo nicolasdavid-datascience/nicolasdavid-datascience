@@ -19,24 +19,24 @@ Estou trilhando o caminho para me tornar um Cientista de Dados, aprofundando con
 
 ## 🧰 Tecnologias
 
->![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
->![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
->![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
->![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
->![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🐍 Principais Ferramentas Python
 
->![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
->![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
->![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
->![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
->![Seaborn](https://img.shields.io/badge/Seaborn-2E8BC0?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E8BC0?style=for-the-badge)
 
 ## 📂 Projetos em destaque  
 
-- ⛽ [Controle de Combustível Uber](https://github.com/nicolasdavid-datascience/gocar) – Programa para gerenciar gastos e abastecimentos de veículos para motoristas de aplicativo  
-- 🎮 [Jogo de Adivinhação em HTML/CSS/JS](https://github.com/nicolasdavid-datascience/numero-secreto)
+- ⛽ [Controle de Combustível Uber](https://github.com/nicolasdavid-datascience/gocar) – Programa para gerenciar gastos e abastecimentos de veículos para motoristas de aplicativo.  
+- 🎮 [Challenge Amigo Secreto](https://github.com/nicolasdavid-datascience/numero-secreto) - Projeto simples e divertido para cadastrar participantes e realizar sorteios aleatórios.
 
 ## 📊 Estatísticas do GitHub
 
